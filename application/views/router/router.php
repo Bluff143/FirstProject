@@ -27,7 +27,7 @@
           <th>SAP ID</th>
           <th>Hostname</th>
           <th>Loopback</th>
-          <th>Mac Address12345</th>
+          <th>Mac Address123456</th>
           <th style="width:125px;">Action
           </p></th>
         </tr>
